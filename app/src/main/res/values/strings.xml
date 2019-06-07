@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloKitty</string>
+    <string name="textView_text">Meow!</string>
+    <string name="imageButton_description">Hello Kitty!</string>
+    <string name="editText_hint">Enter cat name...</string>
+</resources>
